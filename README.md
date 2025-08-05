@@ -7,7 +7,7 @@ A fully functional **agentic AI system** built from scratch using **LangGraph**,
 
 ## 🚀 Demo
 
-- 📽️ [Watch Demo Video](#) *(https://drive.google.com/file/d/1yooHb-xYiiCwTRiFTDzCbb9kNMlQl7E7/view?usp=sharing)*
+📽️ [Click to Demo video](https://drive.google.com/file/d/1yooHb-xYiiCwTRiFTDzCbb9kNMlQl7E7/view?usp=sharing)
 
 ---
 
